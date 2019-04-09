@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Endgame
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Saransh Gupta
+Implementation-Vendor-Id: com.marvel.cinematic.universe
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MCU-After-Infinity
+Created-By: Maven Integration for Eclipse
+
