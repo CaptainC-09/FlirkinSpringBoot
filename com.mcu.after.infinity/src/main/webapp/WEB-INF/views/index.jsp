@@ -7,13 +7,12 @@
 <title>The Avengers Initiative</title>
 </head>
 <body>
-	<h1>Welcome Avenger</h1>
 	<h2>Please Confirm your identity</h2>
 	<div class="form">
 	<form action="jarvis2" method="post">
 		<table>
 			<tr>
-				<td>Enter your Name</td>
+				<td>Choose a team (Stark or Thanos)</td>
 				<td><input type="text" id="name" name="name"></td>
 			</tr>
 		</table>

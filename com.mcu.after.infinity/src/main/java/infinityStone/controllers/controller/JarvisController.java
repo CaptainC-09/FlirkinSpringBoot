@@ -16,9 +16,10 @@ public class JarvisController {
 
 	@PostMapping("/jarvis")
 	public String helloIronMan(@RequestParam String whatDoYouSee, Model model) {
+		model.addAttribute("name" + whatDoYouSee);
 		if(whatDoYouSee.toLowerCase().contains("stark"))
-			return "Hello Mr. Stark";
+			return "ironMan";
 		else
-			return "Thanos!!";
+			return "thanos";
 	}
 }
